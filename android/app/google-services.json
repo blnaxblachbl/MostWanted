@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "29747039976",
+    "firebase_url": "https://mostwanted-35918.firebaseio.com",
+    "project_id": "mostwanted-35918",
+    "storage_bucket": "mostwanted-35918.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29747039976:android:42d97f14cbf6d607",
+        "android_client_info": {
+          "package_name": "com.mostwanted"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29747039976-43akr3pkip9cfaicmn7n6apltvsbmlf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgFmDmOtV6pdr0qLPhDwhB4L1UEXlduu0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
