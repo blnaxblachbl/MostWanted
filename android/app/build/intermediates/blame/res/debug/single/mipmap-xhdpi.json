@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\blnax\\Documents\\MostWanted\\MostWanted\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\blnax\\Documents\\MostWanted\\MostWanted\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\Admin\\MostWanted\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
         "source": "C:\\Users\\Admin\\MostWanted\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     }
