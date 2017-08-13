@@ -32,7 +32,7 @@
       <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
       <meta-data
         android:name="com.google.android.geo.API_KEY"
-        android:value="AIzaSyARpJjGrMs2Tss1ypX5cC2bihYIeEMdkkc"/>
+        android:value="AIzaSyDocPRMe-uPxng4v2zomFmN1eOsVCmDIrc"/>
         <service
             android:name="io.invertase.firebase.messaging.MessagingService"
             android:enabled="true"
